@@ -17,7 +17,7 @@ Evaluate each model on:
 
 (4) Skills precision, recall, and F1 score
 
-Select the best-performing model. Use it to parse a batch of resumes (PDF and/or DOCX).
+Select the best-performing model. Use it to parse resumes (PDF and/or DOCX).
 
 3. Benchmarking Metrics
 Each model is evaluated across 18 resumes using the following metrics:
@@ -42,7 +42,7 @@ gemini-2.0-flash
 
 
 🥇 Best Performing Model
-Based on the evaluation, the best model was: gemini-1.5-flash-8b-latest
+Based on the evaluation, the best model was: gemini-2.0-flash
 It achieved the highest balance of accuracy, speed, and reliability across all metrics.
 
 5. Resume Parsing Pipeline
@@ -63,8 +63,8 @@ How to Run
 Clone the repo:
 
 bash
-git clone https://github.com/yourusername/resume-parser-benchmark.git
-cd resume-parser-benchmark
+git clone https://github.com/jiejiewang123/resume-parser.git
+cd resume-parser
 Install dependencies:
 
 bash
@@ -83,4 +83,4 @@ Benchmark metrics logged and visualized
 Bar charts comparing model performance
 
 👩‍💻 Author
-Built by Jiejie — neuroscientist turned data scientist, passionate about AI, education, and inclusive tech.
+Built by Jena Wang — senior data scientist, passionate about AI, education, and inclusive tech.
