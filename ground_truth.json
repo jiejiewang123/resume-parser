@@ -1,0 +1,52 @@
+{
+  "resume1.pdf": {
+    "name": "John Huber",
+    "email": "email@email.com",
+    "skills": ["HTML5", "CSS", "JavaScript", "Adobe Suite", "Sketch", "InVision", "Balsamiq", "Time management"]
+  },
+  "resume2.pdf": {
+    "name": "MICHELLE LOPEZ",
+    "email": "email@email.com",
+    "skills": ["Adobe Illustrator", "Fashion Design", "Hand Drafting", "Design Patterns", "Fabric"]
+  },
+  "resume3.pdf": {
+    "name": "Michelle Smith",
+    "email": "email@email.com",
+    "skills": ["Client Relationship Management", "Team Leadership", "Strategic Planning", "Networking", "Talent Development", "Sales Growth"]
+  },
+  "resume4.pdf": {
+    "name": "Jason Miller",
+    "email": "email@email.com",
+    "skills": ["Cleaning Equipment", "Mathematics", "Deep Sanitation Practices"]
+  },
+  "resume10.docx": {
+    "name": "Janna Gardner",
+    "email": "janna@example.com",
+    "skills": ["Type 96 words per minute", "Proficient with project management software", "Team player", "Excellent time management skills", "Conflict management", "Public speaking",  "Data analytics"]
+  },
+  "resume11.docx": {
+    "name": "JACKY WILSON",
+    "email": "example@resumeviking.com",
+    "skills": ["Proficient in CNC machining", "OSHA Trained", "Can work Lathes Machines"]
+  },
+  "resume12.docx": {
+    "name": "Damien Le Grand",
+    "email": "email@email.com",
+    "skills": []
+  },
+  "resume13.docx": {
+    "name": "David Garcia",
+    "email": "d.garcia@email.com",
+    "skills": []
+  },
+    "resume14.docx": {
+    "name": "LISA SHAW",
+    "email": "firstname@resumetemplate.org",
+    "skills": []
+  },
+  "resume15.docx": {
+    "name": "May Riley",
+    "email": "m.riley@live.com",
+    "skills": ["Accounting & Budgeting", "Proficient with POS systems", "Excellent interpersonal and communication skills"]
+  }
+}

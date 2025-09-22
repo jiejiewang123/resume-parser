@@ -1,0 +1,170 @@
+{
+  "resume1.pdf": {
+    "name": "John Huber",
+    "email": "email@email.com",
+    "skills": [
+      "HTML5",
+      "CSS",
+      "JavaScript",
+      "Adobe Suite",
+      "Sketch",
+      "InVision",
+      "Balsamiq",
+      "Time management",
+      "Self-motivated",
+      "Effective communicator",
+      "Team oriented"
+    ]
+  },
+  "resume10.docx": {
+    "name": "Janna Gardner",
+    "email": "janna@example.com",
+    "skills": [
+      "Type 96 words per minute",
+      "Proficient with project management software",
+      "Team player",
+      "Excellent time management skills",
+      "Conflict management",
+      "Public speaking",
+      "Data analytics"
+    ]
+  },
+  "resume11.docx": {
+    "name": "JACKY WILSON",
+    "email": "example@resumeviking.com",
+    "skills": [
+      "CNC machining",
+      "OSHA Trained",
+      "Lathes Machines",
+      "lathe",
+      "mill",
+      "grinder",
+      "band saw operation",
+      "G code",
+      "M code",
+      "CNC Haas VM6 (3 axes)",
+      "QC inspection",
+      "machine maintenance",
+      "fixtures",
+      "computer-aided models"
+    ]
+  },
+  "resume12.docx": {
+    "name": "Damien Le Grand",
+    "email": "email@email.com",
+    "skills": [
+      "Diagnosis",
+      "Repair",
+      "Installation",
+      "Light Systems",
+      "Audio Systems",
+      "Electrical component inspection",
+      "MS Office",
+      "3D Modeling",
+      "Infra Design XMD",
+      "Team player",
+      "Accurate",
+      "Motivated",
+      "Reliable",
+      "Arduino Programming"
+    ]
+  },
+  "resume13.docx": {
+    "name": "David Garcia",
+    "email": "d.garcia@email.com",
+    "skills": [
+      "ERP system functionality",
+      "Picking",
+      "Packing",
+      "Warehouse layout",
+      "Just-in-time deliveries systems",
+      "Logistics",
+      "Supply Chain",
+      "Taxfiling",
+      "External Reporting"
+    ]
+  },
+  "resume14.docx": {
+    "name": "Lisa Shaw",
+    "email": "firstname@resumetemplate.org",
+    "skills": [
+      "Business Development",
+      "Talent Acquisition",
+      "Recruitment",
+      "Talent Sourcing",
+      "Client Services",
+      "Candidate Facilitation",
+      "Sales Management",
+      "Strategic Management",
+      "Operational Management",
+      "Training",
+      "Financial Services",
+      "Engineering",
+      "Executive assignments",
+      "Team Management"
+    ]
+  },
+  "resume15.docx": {
+    "name": "M. Riley",
+    "email": "m.riley@live.com",
+    "skills": [
+      "Customer service",
+      "Food & beverage knowledge",
+      "Sales",
+      "Health & safety standards",
+      "Upselling",
+      "Training",
+      "Recruiting",
+      "Inventory management",
+      "Social media",
+      "Cost reduction",
+      "Operational efficiencies",
+      "Team leadership"
+    ]
+  },
+  "resume2.pdf": {
+    "name": "MICHELLE LOPEZ",
+    "email": "email@email.com",
+    "skills": [
+      "Adobe Illustrator",
+      "Hand Drafting",
+      "Fabric",
+      "Fashion Design",
+      "Design Patterns"
+    ]
+  },
+  "resume3.pdf": {
+    "name": "Michelle Smith",
+    "email": "email@email.com",
+    "skills": [
+      "Client Relationship Management",
+      "Strategic Planning",
+      "Talent Development",
+      "Team Leadership",
+      "Networking",
+      "Sales Growth"
+    ]
+  },
+  "resume4.pdf": {
+    "name": "Jason Miller",
+    "email": "email@email.com",
+    "skills": [
+      "Cleaning Equipment",
+      "Mathematics",
+      "Deep Sanitation Practices",
+      "Warehousing",
+      "Operations",
+      "Action Cricket",
+      "Rugby",
+      "Athletics",
+      "English",
+      "Spanish",
+      "Logistics",
+      "Supply Chain",
+      "Inventory Management",
+      "Packing",
+      "Picking",
+      "Record Keeping"
+    ]
+  }
+}
