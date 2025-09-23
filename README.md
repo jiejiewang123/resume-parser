@@ -60,10 +60,14 @@ Load it using python-dotenv
 Add .env to .gitignore to prevent accidental exposure
 
 How to Run
+
+Before you start, make sure git, python, virtualenv are installed in your machine properly.
+
 Clone the repo:
 
 
 git clone https://github.com/jiejiewang123/resume-parser.git
+
 cd resume-parser
 
 Create a virtual environment: virtualenv --python=python venv
