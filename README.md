@@ -66,11 +66,15 @@ Before you start, make sure git, python, virtualenv are installed in your machin
 Clone the repo:
 
 git clone https://github.com/jiejiewang123/resume-parser.git
+
 cd resume-parser
 
-Create a virtual environment: virtualenv --python venv
+Create a virtual environment: virtualenv --python=python venv
+
 Activate the virtual environment: venv\Scripts\activate in windows or source venv/bin/activate in macOS
+
 Install required packages in requirements.txt file: pip install -r requirements.txt
+
 Set personal API KEY: Create a .env file in the project root. Then add your Gemini API key: GEMINI_API_KEY='your_api_key'.
 
 Set your API key in .env:
