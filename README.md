@@ -60,6 +60,7 @@ Load it using python-dotenv
 Add .env to .gitignore to prevent accidental exposure
 
 How to Run
+
 Before you start, make sure git, python, virtualenv are installed in your machine properly.
 
 Clone the repo:
